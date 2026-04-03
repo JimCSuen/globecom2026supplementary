@@ -6,6 +6,6 @@ The proof of Theorem 1 is in `GLOBECOM2026_supplementary.pdf`
 
 # Simulations
 
-The Constellation simulation backbone is based on: https://github.com/Johnnyzlee/walker-leo-simulator.git
+The Constellation simulation backbone is based on: https://github.com/Johnnyzlee/walker-leo-simulator.git, which act as a good startup for learning the Walker constellation. I really do appreciate the author very much.
 
 The 3 test scripts are `simu_task_num.py`, `simu_const_size.py`, and `simu_V_test.py`. The figure plotting script is `exp_data_MPC\fig.ipynb`.
